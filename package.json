@@ -5,7 +5,7 @@
   "scripts": {
     "test": "node index.js"
   },
-  "author": "",
+  "author": "NonreNN",
   "license": "ISC",
   "description": "",
   "dependencies": {
